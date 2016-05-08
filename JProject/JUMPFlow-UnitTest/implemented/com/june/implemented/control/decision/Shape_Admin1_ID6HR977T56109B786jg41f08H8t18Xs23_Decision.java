@@ -37,7 +37,7 @@ public class Shape_Admin1_ID6HR977T56109B786jg41f08H8t18Xs23_Decision extends co
     	 }
     	 
     	 //Set data like  this.getUserInput().setYonghuming16748("XXXX");
-    	 this.getUserInput().setYonghuming16748("bbbb");
+    	 this.getUserInput().setYonghuming16748("bbbbccc");
     	 
     	 return result;
     	
