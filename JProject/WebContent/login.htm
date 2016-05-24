@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1"/>
+<title>登录</title>
+<link rel="stylesheet" href="light7/css/light7.min.css">
+
+<script type="text/javascript" src="js/jquery.min.js" charset='utf-8'></script>
+<script type="text/javascript" src="js/jquery.form.min.js"></script>
+<script type='text/javascript' src='light7/js/light7.min.js' charset='utf-8'></script>
+
+<script type="text/javascript" src="json/login.js"></script>
+</head>
+<body>
+<div class="page">
+<header class="bar bar-nav">
+  <h1 class='title'>登录</h1>
+</header>
+<div class="content">
+<form id="form" name="form" method="post" action="../Login" enctype="application/x-www-form-urlencoded">
+<div class="list-block">
+    <ul>
+      <!-- Text inputs -->
+      <li>
+        <div class="item-content">
+          <div class="item-media"><i class="icon icon-form-name"></i></div>
+          <div class="item-inner">
+            <div class="item-title label">用户名</div>
+            <div class="item-input">
+              <input type="text" name="username" placeholder="请输入用户名">
+            </div>
+          </div>
+        </div>
+      </li>
+      <li>
+        <div class="item-content">
+          <div class="item-media"><i class="icon icon-form-password"></i></div>
+          <div class="item-inner">
+            <div class="item-title label">用户名</div>
+            <div class="item-input">
+              <input type="password" name="userpwd" placeholder="请输入密码">
+            </div>
+          </div>
+        </div>
+      </li>
+     </ul>
+</div>
+</form>
+<div class="content-block">
+    <div class="row">
+      <div class="col-100"><a  onclick="submitForm()" class="button button-big button-fill button-success">登录</a></div>
+    </div>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>
