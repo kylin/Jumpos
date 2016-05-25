@@ -2,7 +2,7 @@
 /**
  * 	FileName   : Shape_BDCS_ID9E4GDYr7RcEW6MhIc4X4j07108978ciu_PageOutput
  * 	Package    : com.june.generated.model.output
- *	Create Time: 2016-5-25 7:25:27
+ *	Create Time: 2016-5-25 8:42:41
  *	Usage	   : 涉及属性的定义、Get、Set、初始值定义 
  *	Purpose	   : null 
  *	Note	   :

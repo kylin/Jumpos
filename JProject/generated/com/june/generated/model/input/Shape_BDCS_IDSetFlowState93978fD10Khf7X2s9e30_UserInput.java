@@ -1,7 +1,7 @@
 /**
  * 	FileName   : Shape_BDCS_IDSetFlowState93978fD10Khf7X2s9e30_UserInput
  * 	Package    : com.june.generated.model.input
- *	Create Time: 2016-5-25 7:25:25
+ *	Create Time: 2016-5-25 8:42:39
  *	Usage	   : Activity的input部分
  *	Purpose	   : null 
  *	Note	   :

@@ -2,7 +2,7 @@
 /**
  * 	FileName   : Shape_BDCS_ID9E4GDYr7RcEW6MhIc4X4j07108978ciu
  * 	Package    : com.june.generated.view
- *	Create Time: 2016-5-25 7:25:29
+ *	Create Time: 2016-5-25 8:42:43
  *	Usage	   : 包含实现系统的页面
  *	Purpose	   : null 
  *	Note	   :

@@ -1,7 +1,7 @@
 /**
  * 	FileName   : Shape_BDCS_ID6u6B8jF817B8MW3Kb1Y9324U8sE458Y_Submit
  * 	Package    : com.june.generated.model.action
- *	Create Time: 2016-5-25 7:25:20
+ *	Create Time: 2016-5-25 8:42:35
  *	Usage	   : 涉及页面的输入和perform方法
  *	Purpose	   : null 
  *	Note	   :

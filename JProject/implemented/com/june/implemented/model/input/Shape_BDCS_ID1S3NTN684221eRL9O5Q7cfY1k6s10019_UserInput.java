@@ -1,7 +1,7 @@
 /**
  * 	FileName   : Shape_BDCS_ID1S3NTN684221eRL9O5Q7cfY1k6s10019_UserInput
  * 	Package    : com.june.implemented.model.input
- *	Create Time: 2016-5-25 7:25:24
+ *	Create Time: 2016-5-25 8:42:38
  *	Usage	   : 涉及属性的定义和Get ??Set??初始值的定义
  *	Purpose	   : null 
  *	Note	   :

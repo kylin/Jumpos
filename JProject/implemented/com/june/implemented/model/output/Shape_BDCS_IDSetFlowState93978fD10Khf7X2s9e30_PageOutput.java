@@ -2,7 +2,7 @@
 /**
  * 	FileName   : Shape_BDCS_IDSetFlowState93978fD10Khf7X2s9e30_PageOutput
  * 	Package    : com.june.implemented.model.output
- *	Create Time: 2016-5-25 7:25:27
+ *	Create Time: 2016-5-25 8:42:42
  *	Usage	   : 涉及属性的定义??Get??Set??初始值定义 
  *	Purpose	   : null 
  *	Note	   :
